@@ -7,3 +7,4 @@ helloSomeone(42);
 helloSomeone(-1);
 helloSomeone(NaN);
 helloSomeone(undefined);
+//test용 주석
